@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Webpage</title>
+</head>
+<body>
+    <!--<h1>Hello,world</h1>
+    <h2>Hello,World</h2>
+    <h3>Hello,worlld</h3>
+    <h4>Hello World</h4>
+    <h5>Hello World</h5> -->
+er showing the JEE Main 2025 Session 1 Candidate Home Page. The page displays Department of Higher Education, Ministry of Education, Government of India, and National Testing Agency branding; navigation links for Home, Change Password, and Logout; the candidate name Ayush Yadav and application number 250310611725; activity links for Registration Form, Application Form, and Fee Payment; verification links for Mobile No.- Verified and Verify Email Id; and a Current Status table showing Registration Form Completed, Application Form Incomplete, and Fee Payment Incomplete. A message says the registration is complete, instructs the candidate to complete the application form and pay the fee, repeats the application number, and includes a Complete Application Form button. The interface has a formal, informational tone and is displayed in a desktop browser window.">
+<a href="http://www.google.com">Google Link</a>
+<!--<img src="./Screenshot (2).png" alt="Desktop browser screenshot of the formal JEE Main 2025 Session 1 candidate home page. The header displays Department of Higher Education, Ministry of Education, Government of India, JEE Main 2025 Session 1, and National Testing Agency. Navigation links read Home, Change Password, and Logout. The page identifies candidate Ayush Yadav and application number 250310611725. Activity links include Registration Form, Application Form, and Fee Payment. Verification links include Mobile No.- Verified and Verify Email Id. The Current Status table shows Registration Form Completed, Application Form Incomplete, and Fee Payment Incomplete. A notice says registration is complete and instructs the candidate to complete the application form and pay the fee, with a Complete Application Form button. The interface has a formal, informational tone." />-->
+</body>
+</html>
+
+
+
+
+    
